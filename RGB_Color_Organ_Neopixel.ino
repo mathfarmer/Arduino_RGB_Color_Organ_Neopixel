@@ -38,7 +38,7 @@ file, You can obtain one at http://mozilla.org/MPL/2.0/
 */
 
 #include <SPI.h>
-#include <Adafruit_NeoPixel.h>
+#include <Adafruit_NeoPixel.h> // https://github.com/adafruit/Adafruit_NeoPixel
 #define PIN 6
 
 #define LED_COUNT       40   // If LED_COUNT > 255, promote counter to int

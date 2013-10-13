@@ -1,5 +1,5 @@
 /*
-RGB Color Organ D705
+RGB Color Organ Neopixel
 
 Takes amplitude information sent over a serial connection and lights 
 up NeoPixels based on that information.

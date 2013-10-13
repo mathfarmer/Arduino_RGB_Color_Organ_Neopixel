@@ -1,2 +1,4 @@
-Arduino_RGB_Color_Organ_Neopixel
+Arduino RGB Color Organ Neopixel
 ================================
+
+Requires the Adafruit NeoPixel library: https://github.com/adafruit/Adafruit_NeoPixel

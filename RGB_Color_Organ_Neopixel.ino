@@ -84,7 +84,7 @@ byte amplitudes_len;
 byte offset;
 boolean expectOffset;
 
-Adafruit_NeoPixel strip = Adafruit_NeoPixel(40, PIN, NEO_GRB + NEO_KHZ800);
+Adafruit_NeoPixel strip = Adafruit_NeoPixel(LED_COUNT, PIN, NEO_GRB + NEO_KHZ800);
 //boolean flip; // Used for crude a/b profiling
 
 void setup()
